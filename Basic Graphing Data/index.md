@@ -3,5 +3,5 @@ title: Basic Graphing Data CTBA Course
 description: These are some basic visuals I have performed for my CTBA Course at the College of William and Mary
 ---
 Here are some examples of various graphs being illustrated
--[Hometown US President Data (HTML)](Hometown Data on US Presidents.html)
--[Hometown US President Data (ipynb)](Hometown Data on US Presidents.ipynb)
+-[Hometown US President Data (HTML).].(Hometown Data on US Presidents.html)
+-[Hometown US President Data (ipynb).].(Hometown Data on US Presidents.ipynb)
