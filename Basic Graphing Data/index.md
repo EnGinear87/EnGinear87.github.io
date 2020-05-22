@@ -10,4 +10,5 @@ Here are some basic graphing pictures
 - [Formatting Graphs Overview](https://github.com/EnGinear87/Sample_Graphing_Data)
 
 Here is a link to a sample graph on YouTube
--[![The Joy of Stats](https://img.youtube.com/vi/jbkSRLYSojo/0.jpg)](https://youtu.be/jbkSRLYSojo?t=29)
+
+[![Hans Rosling's 200 Countries, 200 Years, 4 Minutes - The Joy of Stats - BBC Four](https://img.youtube.com/vi/jbkSRLYSojo/0.jpg)](https://youtu.be/jbkSRLYSojo?t=29)
