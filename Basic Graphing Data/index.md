@@ -4,4 +4,5 @@ description: These are some basic visuals I have performed for my CTBA Course at
 ---
 Here are some examples of various graphs being illustrated
 - [Hometown Data on US Presidents.html](./Hometown Data on US Presidents.html)
--[Alt Text](Basic Graphing Data/Hometown Data on US Presidents.ipynb)
+
+- [Alt Text](Basic Graphing Data/Hometown Data on US Presidents.ipynb)
