@@ -4,4 +4,4 @@ description: This is my first testing done inside of GitHub
 ---
 
 This is some of the content I am starting to create for my personal website
-- [Basic Graphing Data](./BasicGraphingData/index.md).
+- [Basic Graphing Data](./Basic Graphing Data/index.md).
