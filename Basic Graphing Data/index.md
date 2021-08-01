@@ -3,8 +3,8 @@ title: Basic Graphing Data
 description: These are some basic visuals and samples from my MSBA program at the College of William and Mary
 ---
 Here are some examples with graphing inside of Python
-- [HometownDataonUSPresidents.html](HometownDataonUSPresidents.html)
-- [HometownDataonUSPresidents.ipynb](HometownDataonUSPresidents.ipynb)
+- [Hometown Data on US Presidents.html](HometownDataonUSPresidents.html)
+- [Hometown Data on US Presidents.ipynb](HometownDataonUSPresidents.ipynb)
 - [Exmaple of Different Graphs.html](ExampleofDifferentGraphs.html)
 - [Example of Different Graphs.ipynb](ExampleofDifferentGraphs.ipynb)
 
