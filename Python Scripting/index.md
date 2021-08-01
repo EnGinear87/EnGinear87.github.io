@@ -25,4 +25,5 @@ description: Below are some examples of Python Scripting using Jupyter and Spyde
 - [INSERT FILE NAME.py](INSERTFILENAME.py)
 
 
-[Go back to the previous page](./)
+[Go back to the previous page](./https://enginear87.github.io/)
+
