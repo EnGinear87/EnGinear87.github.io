@@ -10,3 +10,6 @@ Hello World and thank you for researching my website that I created on GitHub.  
 This is some of the content I'm creating for my personal website
 - [Basic Graphing Data](./Basic Graphing Data/index.md)
 
+
+Here are some examples of using Python
+ - [Python Scripting](./Python Scripting/index.md)
