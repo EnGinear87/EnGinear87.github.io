@@ -1,5 +1,5 @@
 ---
-title: Basic Graphing Data
+title: Data Visualizations
 description: These are some basic visuals and samples from my MSBA program at the College of William and Mary
 ---
 Here are some examples with graphing inside of Python:
@@ -16,7 +16,7 @@ In the video below, it describes creating a good graph based on various sources 
 
 [![Hans Rosling's 200 Countries, 200 Years, 4 Minutes - The Joy of Stats - BBC Four](https://img.youtube.com/vi/jbkSRLYSojo/0.jpg)](https://youtu.be/jbkSRLYSojo?)
 
-Here is a video showing the Virginia Datathon 2020 that I did along with other members of the MSBA program at the College of William and Mary utilizing Tableau to create dashboard and stories for the theme: Communities and COVID-19:
+Here is a video showing the Virginia Datathon 2020 that I did along with other members of the MSBA program at the College of William and Mary utilizing Tableau to create dashboards and stories for the theme: Communities and COVID-19:
 
 [![Virginia Datathon 2020: Communities and COVID-19](https://img.youtube.com/vi/md_C891jNNg/0.jpg)](https://youtu.be/md_C891jNNg)
 
