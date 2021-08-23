@@ -16,8 +16,8 @@ description: Below are some examples of Python Scripting using Jupyter and Spyde
 
 * * *
 
-#### Here are some python scripts
--[Coming Soon!]
+### Here is a link to helpful python documentation
+- [Python Documentation](https://docs.python.org/3.9/)
 
 
 [Go back to the main page](https://enginear87.github.io)
