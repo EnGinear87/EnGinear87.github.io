@@ -1,6 +1,6 @@
 ---
 title: Python Scripting
-description: Below are some examples of Python Scripting using Jupyter and Spyder and IronPython 2.7
+description: Below are some examples of Python Scripting using Jupyter, Spyder and IronPython 2.7
 ---
 ### Here are some examples using Python
 - [Python Examples](https://github.com/EnGinear87/Python)
@@ -18,4 +18,3 @@ description: Below are some examples of Python Scripting using Jupyter and Spyde
 
 
 [Go back to the main page](https://enginear87.github.io)
-
