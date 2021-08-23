@@ -12,4 +12,4 @@ This is some of the content I'm creating for my personal website
 
 
 Here are some examples of using Python
- - [Python Scripting](./Python/index.md)
+ - [Python Scripting](./Python /index.md)
