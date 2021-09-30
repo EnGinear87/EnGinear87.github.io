@@ -8,8 +8,8 @@ description: Below are some examples of Python Scripting using Jupyter, Spyder a
 ### Here are some examples over Machine Learning
  - [Machine Learning Projects](https://github.com/EnGinear87/Machine_Learning)
 
-### Here are some examples using IronPython 2.7:
- - [Coming Soon!]
+### Here are some examples using IronPython 2.7 for my current job:
+ - [Inspire Software Training Videos](https://www.youtube.com/watch?v=et3JMi2GprI&list=PLxYO3BiCCJfpnbILJeWRAufvSUglQU_ys&index=9)
 
 * * *
 
