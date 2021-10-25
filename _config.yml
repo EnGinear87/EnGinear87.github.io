@@ -1,5 +1,5 @@
 title: Wayne's Testing Theme
 description: My favorite color is green.
 show_downloads: false
-google_analytics:
+google_analytics: true
 theme: jekyll-theme-cayman
