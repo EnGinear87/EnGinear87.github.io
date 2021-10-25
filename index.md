@@ -1,5 +1,5 @@
 ---
-title: Welcome to my Life
+title: Welcome to My Life of Data 💾🚀🌌🌍
 description: Created by Melvin Wayne Abraham to share a little bit about my journey of learning and understanding business analytics
 ---
 
